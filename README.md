@@ -1,5 +1,6 @@
 # AI Career Recommendation System
-
+LINK TO OPEN PROJECT DIRECTLY : Local URL: http://localhost:8501
+  Network URL: http://192.168.1.113:8501
 An AI-powered system that recommends suitable career paths based on
 student skills, interests, academic information and preferences.
 
