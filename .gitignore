@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual environments
 .venv/
 venv/
@@ -16,3 +17,10 @@ models/similarity.pkl
 # OS files
 .DS_Store
 Thumbs.db
+=======
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+>>>>>>> 9495aa6dae392cd2d9c7d61ff02833a7aeb47ff5
